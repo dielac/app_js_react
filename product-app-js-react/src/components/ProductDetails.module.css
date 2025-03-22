@@ -1,0 +1,42 @@
+.productDetail {  
+    background-color: #e6cbbf;   
+    color: #5a4033;   
+    border: 2px solid #8c6a5d;  
+    padding: 15px;  
+    border-radius: 10px;  
+    width: 250px;  
+    text-align: center;  
+    margin: 10px;  
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);  
+    font-weight: normal 
+    
+  }  
+
+  /*
+  color- just changes the color of the text or background
+  border-i set a border 
+  padding- adds spaces so it didnt touch the edges
+  border radius- rounded the corners 
+  width- set a fixed width 
+  text allignment-centered to make look more organized
+  margin-adds spacing between cards so they dont look cramed 
+  box shadow- gives a bit of a 3d effect makes it stand out from the background
+  font weight - makes the font consistent if you set it to normal which is normally 400
+  
+  */
+  
+  .productImage {  
+    width: 100%;  
+    height: auto;  
+    border-radius: 8px;  
+    margin-bottom: 10px;  
+    border: 1px rgb(3, 64, 3);  
+  }  
+  /*
+  width and height just makes sure images fit the whole card 
+  border radius- makes the corners more round 
+  margin bottom- adds some spacing below the image to seperate it from the rest
+  border- Added a thin border around the image but might remove i dont know if i like it or not 
+  
+  */
+  

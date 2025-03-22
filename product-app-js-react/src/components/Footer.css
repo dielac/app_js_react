@@ -1,0 +1,23 @@
+.footer {  
+    margin-top: 20px;  
+    padding: 10px;  
+    background-color: #8c6a5d;  
+    color: white;  
+    text-align: center;  
+    border-radius: 10px;  
+    font-size: 14px;  
+  }  
+  
+  /* 
+  margin top- adds spacing between footer and whats above
+  padding - adds spacing inside the footer
+  color and background color- custom colors for the footer
+  text allign- centered it to make it look nicer and go alone with the rest of the app
+  border radius- rounded the corners to make it match the header
+  font - size - wanted it smaller and used this to change it
+  
+  */
+  .footer-extra {
+    display: none;
+  }
+  /* i can remove this from my code but its not doing anything and it would hide the element and ensures if this class applied*/

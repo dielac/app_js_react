@@ -1,0 +1,44 @@
+body {  
+  background-color: #e8d4c4;   
+  color: #493d32;   
+  font-family: 'Georgia', serif;  
+  margin: 0;  
+  padding: 0;  
+  text-align: center;  
+}  
+/* background-color sets the color font family chooses the font of text and margin and padding puts space around the body */
+.app-container {  
+  text-align: center;  
+  padding: 20px;  
+}  
+/*app-container keeps all the elements within container centered and the padding adds space around the container for a better looking layout. */
+.header {  
+  background-color: #8c6a5d;  
+  color: white;  
+  padding: 20px;  
+  border-radius: 10px;  
+}  
+/*background color for the background and padding to add spacing and b order radius adds softer look and rounded corners.*/
+
+h1, h2 {  
+  margin: 10px 0;  
+}  
+/* removes extra spacing between the headers made it look more organized*/
+
+.footer {  
+  margin-top: 20px;  
+  padding: 10px;  
+  background-color: #7f5f53;  
+  color: white;  
+  text-align: center;  
+  border-radius: 10px;  
+  font-size: 14px;  
+}  
+/*margin top seperated the footer from the rest of the content
+padding added space inside footer
+text allignment centered text
+border radius made headers corners rounded
+font size reduced the size making it look different from the rest of the app
+
+
+*/

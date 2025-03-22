@@ -1,0 +1,13 @@
+.product-listing {  
+    display: flex;  
+    flex-wrap: wrap;  
+    justify-content: center;  
+    gap: 20px;  
+    padding: 20px;  
+  }  
+    /*
+    flexbox-alligns products how you want them to be
+    wrap-allows the texts to wrap to the next line if they exceed the width of the screen
+    gap and padding - makes the items in the container give the edges some padding and space making it look alot nicer. 
+    
+    */
